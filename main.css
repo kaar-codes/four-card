@@ -1,0 +1,26 @@
+/* Box Style */
+.box {
+  background: var(--white);
+  border-top: 4px solid #333;
+  padding: 24px 16px;
+}
+
+.box > p {
+  font-weight: 400;
+  color: var(--grey-400);
+}
+
+.box > img {
+  display: block;
+  margin-left: auto;
+  margin-block: 16px;
+}
+
+body {
+  background-color: var(--grey-100);
+}
+
+h2,
+h3 {
+  color: var(--grey-500);
+}

@@ -1,0 +1,23 @@
+.font-bold {
+  font-weight: 600;
+}
+
+.font-light {
+  font-weight: 200;
+}
+
+.border-color-red {
+  border-color: var(--red);
+}
+
+.border-color-orange {
+  border-color: var(--orange);
+}
+
+.border-color-cyan {
+  border-color: var(--cyan);
+}
+
+.border-color-blue {
+  border-color: var(--blue);
+}
